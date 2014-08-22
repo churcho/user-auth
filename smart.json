@@ -1,0 +1,12 @@
+{
+  "name": "user-auth",
+  "description": "A meteorite package for user authentication with an admin dashboard theme",
+  "homepage": "https://github.com/churcho/user-auth",
+  "author": "Churchill Aboge (http://aboge.me)",
+  "version": "0.0.1",
+  "git": "https://github.com/churcho/user-auth.git",
+  "packages": {
+    "iron-router": "0.8.2",   
+   
+  }
+}
